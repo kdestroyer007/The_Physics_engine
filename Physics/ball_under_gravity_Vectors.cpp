@@ -14,6 +14,7 @@
 #include "Vectors/Vector2.h"
 #include "body.h"
 
+
 using namespace std;
 
 sf::Vector2f ToSMFL(const Vec2 & a){
