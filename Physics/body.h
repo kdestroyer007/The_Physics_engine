@@ -1,5 +1,6 @@
+#pragma once
 #include "Vectors/Vector2.h"
-#include "Vectors/V_alzebra.h"
+
 
 class Body{
     public:

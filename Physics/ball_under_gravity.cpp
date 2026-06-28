@@ -7,8 +7,7 @@
 #include <vector>
 #include <iostream>
 #include "body.h"
-#include "Integration/better_integration.h"
-#include "Vectors/V_alzebra.h"
+#include "Integration/better_integration.cpp"
 #include "Vectors/Vector2.h"
 
 int main(){
